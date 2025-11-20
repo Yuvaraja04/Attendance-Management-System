@@ -76,7 +76,7 @@ All the dependencies and required libraries are included in the file `requiremen
 ## 🚀 INSTALLATION
 
 Clone the repo\
-```$ git clone https://github.com/memudualimatou/STUDENT-ATTENDANCE-USING-FACIAL-RECOGNITION-SYSTEM-OPENCV.git```
+```$ git clone https://github.com/Yuvaraja04/Attendance-Management-System```
 
 
 Change your directory to the cloned repo and create a Python virtual environment named 'test'
@@ -93,8 +93,7 @@ Now, run the following command in your Terminal/Command Prompt to install the li
 ## 👏 And it's done!
 Feel free to mail me for any doubts/query ✉️ vrpyuvaraja24@gmail.com
 
-##  🤝 Contribution
-Feel free to file a new issue with a respective title and description on the the Student attendance repository. If you already found a solution to your problem, I would love to review your pull request!
+
 
 
 
