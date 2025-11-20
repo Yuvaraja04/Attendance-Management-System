@@ -67,8 +67,6 @@ Simustenously, a csv file **AttendanceFile.csv'** will be updated with the ID,NA
 the Unkown face captured will be store in the **UnkownImages** folder.<br>
 
 
-![capture3](https://github.com/memudualimatou/STUDENT-ATTENDANCE-USING-FACIAL-RECOGNITION-SYSTEM-OPENCV/blob/master/Docs/Images/ezgif.com-gif-maker%20(1).gif)
-
 
 ## 🔑 PEREQUISITES
 
