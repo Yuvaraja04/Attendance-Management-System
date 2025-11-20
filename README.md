@@ -70,7 +70,7 @@ the Unkown face captured will be store in the **UnkownImages** folder.<br>
 
 ## 🔑 PEREQUISITES
 
-All the dependencies and required libraries are included in the file `requirements.txt` [See here](https://github.com/memudualimatou/STUDENT-ATTENDANCE-USING-FACIAL-RECOGNITION-SYSTEM-OPENCV/blob/master/requirements.txt)
+All the dependencies and required libraries are included in the file `requirements.txt` 
 
 
 ## 🚀 INSTALLATION
