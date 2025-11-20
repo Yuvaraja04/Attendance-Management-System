@@ -89,17 +89,12 @@ Now, run the following command in your Terminal/Command Prompt to install the li
 ```$ pip3 install -r requirements.txt```
 
 
-To download the **Trainner.yml** File [click here](https://bitbucket.org/memudu_alimatou/facial-recognition-opencv/src/master/)
 
 ## 👏 And it's done!
-Feel free to mail me for any doubts/query ✉️ alimatousadia005@gmail.com
+Feel free to mail me for any doubts/query ✉️ vrpyuvaraja24@gmail.com
 
 ##  🤝 Contribution
 Feel free to file a new issue with a respective title and description on the the Student attendance repository. If you already found a solution to your problem, I would love to review your pull request!
 
-## ❤️ Owner
-Made with ❤️  by MEMUDU alimatou sadia
 
-## 👍 Credits
-https://www.pyimagesearch.com/ 
 
